@@ -1,0 +1,13 @@
+C:\projects\newProject\src\main\java\org\example\app\Main.java
+C:\projects\newProject\src\main\java\org\example\controller\CharacterController.java
+C:\projects\newProject\src\main\java\org\example\memento\CharacterCaretaker.java
+C:\projects\newProject\src\main\java\org\example\memento\CharacterMemento.java
+C:\projects\newProject\src\main\java\org\example\model\CharacterClass.java
+C:\projects\newProject\src\main\java\org\example\model\CharacterRace.java
+C:\projects\newProject\src\main\java\org\example\model\CharacterStore.java
+C:\projects\newProject\src\main\java\org\example\model\DndCharacter.java
+C:\projects\newProject\src\main\java\org\example\model\Stats.java
+C:\projects\newProject\src\main\java\org\example\service\CharacterGenerator.java
+C:\projects\newProject\src\main\java\org\example\service\JsonFileWriter.java
+C:\projects\newProject\src\main\java\org\example\view\CharacterListModel.java
+C:\projects\newProject\src\main\java\org\example\view\CharacterView.java
